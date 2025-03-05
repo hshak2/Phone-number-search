@@ -13,7 +13,7 @@ function callingYou(){
       }else if(num.toString().length < 10){
         document.querySelector('#isItTrue').innerText = 'Please enter a valid number.'
       }else{
-        document.querySelector('#isItTrue').innerText = 'Is it a real or fake number?'
+        document.querySelector('#isItTrue').innerText = 'Please enter a valid number.'
       }
     
       data.country_name ? document.querySelector('#country').innerText = data.country_name : document.querySelector('#country').innerText = 'Country'

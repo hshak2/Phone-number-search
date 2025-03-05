@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 5% 20%;
+    height: 600px;
+}
+.mainArea{
+    padding: 1% 0%;
+}
+.otherArea{
+    padding: 1% 0;
+    border: 2px solid lightgreen;
+    border-radius: 10px;
+}
