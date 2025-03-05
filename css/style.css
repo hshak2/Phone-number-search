@@ -7,7 +7,11 @@ body{
     display: flex;
     flex-direction: column;
     margin: 5% 20%;
-    height: 600px;
+    height: 100vh;
+    background: no-repeat center/100% url('evgeni-tcherkasski-yRqSop1Li4Y-unsplash.jpg');
+    color: white;
+    overflow: scroll;
+    background-color: black;
 }
 .mainArea{
     padding: 1% 0%;
@@ -16,4 +20,10 @@ body{
     padding: 1% 0;
     border: 2px solid lightgreen;
     border-radius: 10px;
+}
+@media screen and (max-width: 780px){
+    body{
+        background: no-repeat top/120% url('evgeni-tcherkasski-yRqSop1Li4Y-unsplash.jpg');
+        background-color: black;
+    }
 }
