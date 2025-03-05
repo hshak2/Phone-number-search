@@ -1,7 +1,7 @@
-# What's The Weather
+# Phone Number Search
 Type a phone number and get information about that phone number to see if it is valid or not, as well as receive information about its country of origin, city and carrier.
 
-**Link to project:** [weatherviews.netlify.app](https://weatherviews.netlify.app/)
+**Link to project:** [hshak2.github.io/Phone-number-search/](https://hshak2.github.io/Phone-number-search/)
 
 
 
