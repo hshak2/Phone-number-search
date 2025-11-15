@@ -3,7 +3,8 @@ Type a phone number and get information about that phone number to see if it is 
 
 **Link to project:** [hshak2.github.io/Phone-number-search/](https://hshak2.github.io/Phone-number-search/)
 
-[Screenshot 2025-03-05 at 12.01.47 PM.zip](https://github.com/user-attachments/files/19094361/Screenshot.2025-03-05.at.12.01.47.PM.zip)
+<img width="1259" height="537" alt="Screenshot 2025-11-15 at 5 08 20 PM" src="https://github.com/user-attachments/assets/b79fb0fb-7f30-44ee-89f7-cd9b4c2c9cec" />
+
 
 
 ## How It's Made:
